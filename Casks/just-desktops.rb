@@ -7,7 +7,7 @@ cask "just-desktops" do
   desc "Minimal workspace switcher and focus border"
   homepage "https://github.com/n-seiji/just-desktops"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "just-desktops.app"
 
