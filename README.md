@@ -1,9 +1,10 @@
 # n-seiji/homebrew-tap
 
-Homebrew casks for [just-desktops](https://github.com/n-seiji/just-desktops).
+Homebrew casks for [just-desktops](https://github.com/n-seiji/just-desktops) and [NovakeyR](https://github.com/n-seiji/novakey-r).
 
 ```sh
 brew install --cask n-seiji/tap/just-desktops
+brew install --cask n-seiji/tap/novakey-r
 ```
 
-The cask is updated from each release with `scripts/bump-cask.sh` in the just-desktops repository.
+Each cask is updated from its release with `scripts/bump-cask.sh` in that project's repository.
