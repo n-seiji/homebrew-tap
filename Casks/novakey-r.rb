@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 cask "novakey-r" do
-  version "0.1.0"
-  sha256 "46b121f12c5797e3a7ef683c08828c3f364df423c2bd211b87405b42a8decd2e"
+  version "0.1.1"
+  sha256 "7be21ed1f4649b2d9cb5d7b5c9a716dafd545228ca696c3706ffcfa1ccc32945"
 
   url "https://github.com/n-seiji/novakey-r/releases/download/v#{version}/NovakeyR-#{version}.app.zip"
   name "NovakeyR"
