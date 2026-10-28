@@ -1,6 +1,6 @@
 cask "just-desktops" do
-  version "0.1.4"
-  sha256 "b73ea385eefbdc74a3e5c5adcf1ca3334526b1774351ae84cff8b1ff9995d569"
+  version "0.1.5"
+  sha256 "2db1fc67ab48a6f6851b4cf5e399a40a037672e43701048399c454be6e7ccb2b"
 
   url "https://github.com/n-seiji/just-desktops/releases/download/v#{version}/just-desktops-#{version}.app.zip"
   name "just-desktops"
